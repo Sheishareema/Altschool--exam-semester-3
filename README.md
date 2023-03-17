@@ -1,24 +1,8 @@
 # exam
 
-## Project setup
-```
-npm install
-```
+## Description
+This is a Vue app with increment, decrement, reset, and setValue functions with a valid UI.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Linked project
+https://main--astonishing-crepe-ea7fd4.netlify.app/
